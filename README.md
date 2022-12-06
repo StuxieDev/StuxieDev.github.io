@@ -1,1 +1,1 @@
-# StuxieDev.github.io
+# stuxiedev.github.io
